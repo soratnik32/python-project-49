@@ -8,7 +8,7 @@ def play_game(game):
     print("Welcome to the Brain Games!")
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}')
-    print(game.DESCRITION)
+    print(game.DESCRIPTION)
     for i in range(ROUNDS):
         question, answer = game.get_question_and_answer()
         print(f'Question: {question}')
