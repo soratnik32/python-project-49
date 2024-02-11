@@ -8,3 +8,12 @@
 
 ### Brain-calc
 [![asciicast](https://asciinema.org/a/634178.svg)](https://asciinema.org/a/634178)
+
+### Brain-gcd
+[![asciicast](https://asciinema.org/a/634398.svg)](https://asciinema.org/a/634398)
+
+### Brain-progressive
+[![asciicast](https://asciinema.org/a/637444.svg)](https://asciinema.org/a/637444)
+
+### Brain-prime
+[![asciicast](https://asciinema.org/a/637569.svg)](https://asciinema.org/a/637569)
