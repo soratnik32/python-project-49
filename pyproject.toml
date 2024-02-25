@@ -1,11 +1,19 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = "brain_games"
-authors = ["Nikita Anokhin"]
+description = "brain games - these are 5 mini games for brain training"
+authors = ["Nikita Anokhin <soratnik32@gmail.com>"]
+repository = "https://github.com/soratnik32/python-project-49"
 readme = "README.md"
 packages = [
   { include = "brain_games" },
+]
+classifiers = [
+  "Environment :: Console",
+  "Natural Language :: English",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python",
+  "Topic :: Games/Entertainment",
 ]
 
 [tool.poetry.dependencies]
