@@ -4,20 +4,27 @@
 
 ### Install the project
 
+```
 make publish
 make package-install
+```
 
 ### How to start
 
+```
 brain-even - even or no
 brain-calc - calculator
 brain-gcd - greatest common divisor
 brain-progression - progression
 brain-prime - prime or not
+```
 
 ### About the project
+
+```
 Try 1 of 5 mini games
 Each game contains 3 math questions you need to answer
+```
 
 ### Brain-even
 [![asciicast](https://asciinema.org/a/642923.svg)](https://asciinema.org/a/642923)
