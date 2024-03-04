@@ -16,3 +16,4 @@ def prime(number):
 def get_question_and_answer():
     question = randint(1, 50)
     return str(question), 'yes' if prime(question) else 'no'
+

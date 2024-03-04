@@ -24,3 +24,4 @@ package-install-force:
 	python3 -m pip install --force-reinstall --user dist/*.whl
 linter:
 	poetry run flake8 brain_games
+
