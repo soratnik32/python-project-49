@@ -13,4 +13,3 @@ def get_question_and_answer():
     answer_index = randint(0, length - 1)  # скрытый элемент
     answer, progression[answer_index] = progression[answer_index], '..'
     return ' '.join(map(str, progression)), str(answer)
-
