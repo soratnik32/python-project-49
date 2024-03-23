@@ -15,4 +15,4 @@ def is_prime(number):
 
 def get_question_and_answer():
     question = randint(1, 50)
-    return str(question), 'yes' if prime(question) else 'no'
+    return str(question), 'yes' if is_prime(question) else 'no'
