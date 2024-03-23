@@ -4,7 +4,7 @@ from random import randint
 DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
-def prime(number):
+def is_prime(number):
     if number == 1:
         return False
     for i in range(2, (number // 2) + 1):
